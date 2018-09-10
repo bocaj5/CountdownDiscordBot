@@ -1,0 +1,2 @@
+# CountdownDiscordBot
+By @bocaj @faith
