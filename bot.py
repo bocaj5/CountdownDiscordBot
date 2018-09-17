@@ -8,7 +8,7 @@ Client = dicord.client()
 client = command.Bot(commands_prefix = "!")
 
 @client.event
-async def on_ready():
+async def on_ready
     print("Bot Is Ready")
 
 @client.event
@@ -18,4 +18,4 @@ async def on_message(message):
 
 
 
-client.run("dpPzEujT_Xb0vQi9lF_6e2VgPhSBJ8cX")
+client.run("TOKEN")
